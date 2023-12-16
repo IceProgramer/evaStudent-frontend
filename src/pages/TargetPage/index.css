@@ -1,0 +1,26 @@
+.targetTitleContainer {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.targetTitle {
+    color: #1677ff;
+    font-size: 24px;
+
+}
+
+.checkList {
+    margin: 20px 10% 0 10%;
+}
+
+.checkList .ant-pro-checkcard-header {
+    justify-content: center;
+}
+
+.buttonGroup {
+    display: flex;
+    width: 80%;
+    margin: 0 auto 10px auto;
+    justify-content: center;
+    gap: 15%
+}

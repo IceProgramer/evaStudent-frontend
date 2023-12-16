@@ -1,0 +1,16 @@
+.courseList {
+    margin: 25px 10%;
+}
+
+.container {
+    overflow: hidden; /* 清除浮动 */
+}
+
+.courseTitle {
+    float: left;
+}
+
+.courseStatus {
+    float: right;
+    margin-top: 12px;
+}
